@@ -1,0 +1,61 @@
+h1 {
+  margin: 30px auto auto 20px;
+  color: #f4801a;
+}
+
+h2 {
+  font-size: 35px;
+  line-height: 1.0625;
+  font-weight: 600;
+  letter-spacing: -0.009em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-bottom: 15px;
+}
+
+.container-1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.meal-select {
+  margin-top: 10px;
+}
+
+.form-select {
+  width: 250px;
+  height: 30px;
+  margin: 0 auto;
+  letter-spacing: -0.009em;
+}
+
+body {
+  background-color: #fff;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+img {
+  margin-left: 25px;
+  width: 500px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.a {
+  font-size: 20px;
+}
+
+p {
+  color: #686b78;
+  margin-left: 20px;
+  font-size: 32px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+}
+
+.btn {
+  margin-top: 20px;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/RandomFoodGenerator/static/js/main.9bea803a.chunk.js",
+    "main.js.map": "/RandomFoodGenerator/static/js/main.9bea803a.chunk.js.map",
+    "runtime-main.js": "/RandomFoodGenerator/static/js/runtime-main.bb6333f9.js",
+    "runtime-main.js.map": "/RandomFoodGenerator/static/js/runtime-main.bb6333f9.js.map",
+    "static/js/2.55d9353b.chunk.js": "/RandomFoodGenerator/static/js/2.55d9353b.chunk.js",
+    "static/js/2.55d9353b.chunk.js.map": "/RandomFoodGenerator/static/js/2.55d9353b.chunk.js.map",
+    "index.html": "/RandomFoodGenerator/index.html",
+    "static/js/2.55d9353b.chunk.js.LICENSE.txt": "/RandomFoodGenerator/static/js/2.55d9353b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb6333f9.js",
+    "static/js/2.55d9353b.chunk.js",
+    "static/js/main.9bea803a.chunk.js"
+  ]
+}
