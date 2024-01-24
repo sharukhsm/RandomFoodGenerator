@@ -3,7 +3,12 @@ import ReactDOM from "react-dom";
 import App from "./components/App";
 import { breakFastList, lunchList, dinnerList } from "./food";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render( <div>
+    <App />
+    <div className="made-with-love">
+      <p>Made with love by Sharukh🖤 </p>
+    </div>
+  </div>, document.getElementById("root"));
 
 function breakFast() {
   var randomNumber = Math.floor(Math.random() * breakFastList.length); //generates number between  0-5
