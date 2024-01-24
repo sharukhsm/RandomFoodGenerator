@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       {console.log(breakFastList, lunchList, dinnerList)}
-      <h1>Random food generator</h1>
+      <h1>Meal Planner</h1>
       <div className="container-1">
         <h2>Select your meal</h2>
 
